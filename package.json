@@ -1,7 +1,7 @@
 {
   "name": "greword-backend",
-  "version": "1.0.0",
-  "description": "GRE Word App sync backend",
+  "version": "2.0.0",
+  "description": "GRE Word App sync backend with admin API",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
